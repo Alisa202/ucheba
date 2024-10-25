@@ -1,4 +1,4 @@
-def sum(a, b):
+def sum(a, b): #edit
     return (a + b)
 
 a = int(input('Enter 1st number: '))
